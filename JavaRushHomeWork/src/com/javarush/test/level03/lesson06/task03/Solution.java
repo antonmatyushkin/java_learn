@@ -5,11 +5,14 @@ package com.javarush.test.level03.lesson06.task03;
 Каждый объект при создании выводит на экран определенный цвет.
 */
 
+import com.sun.org.apache.regexp.internal.RE;
+
 public class Solution
 {
     public static void main(String[] args)
     {
-        //напишите тут ваш код
+        Red red = new Red();
+        red.
 
     }
 
