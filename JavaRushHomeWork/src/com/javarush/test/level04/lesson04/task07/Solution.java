@@ -16,7 +16,18 @@ public class Solution
 {
     public static void main(String[] args) throws Exception
     {
-        //напишите тут ваш код
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
+        String s = reader.readLine(), a = "365", b = "366";
+        int s1 = Integer.parseInt(s);
+
+        if ((s1 % 100 == 0 && s1 % 400 != 0) || (s1 % 400 != 0 && s1 % 4 != 0))
+        {
+            System.out.println("количество дней в году: " + a);
+        }
+        else
+        {
+            System.out.println("количество дней в году: " + b);
+        }
     }
 }
