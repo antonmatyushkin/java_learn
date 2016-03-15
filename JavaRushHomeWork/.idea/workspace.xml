@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task07/Solution.java" afterPath="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task07/Solution.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task08/Solution.java" afterPath="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task08/Solution.java" />
-    </list>
+    <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="" />
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -762,12 +759,12 @@
       <workItem from="1457726625422" duration="597000" />
       <workItem from="1457791803170" duration="1259000" />
       <workItem from="1457869614423" duration="8963000" />
-      <workItem from="1457939086562" duration="11451000" />
+      <workItem from="1457939086562" duration="12049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36620000" />
+    <option name="totallyTimeSpent" value="37218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1035" extended-state="1" />
