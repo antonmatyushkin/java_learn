@@ -1,7 +1,5 @@
 package com.javarush.test.level05.lesson12.bonus02;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 /* Нужно добавить в программу новую функциональность
@@ -14,41 +12,28 @@ public class Solution
 
     public static void main(String[] args) throws Exception
     {
-        int[] a = new int[7];
+        int[] a = new int[5];
         int i = 0;
 
         Scanner in = new Scanner(System.in);
-        //BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        /*
-        int a = Integer.parseInt(reader.readLine());
-        int b = Integer.parseInt(reader.readLine());
 
-        int minimum = min(a, b);
-
-        System.out.println("Minimum = " + minimum);
-        */
-
+        //Создаем массив из 5 элементов.
         for (int element : a)
         {
-
-            System.out.print("Введите " + (i + 1) + "-й элемент массива: ");
             a[i] = in.nextInt();
-
-            System.out.println(a[i] + " - ");
-
             i++;
         }
 
-        for (int element : a)
+        int min = a[0];
+        //Определяем минимальный элемент в массиве.
+        for (i = 0; i < a.length; i++)
+        {
+            if (a[i] < min)
+            {
+                min = a[i];
+            }
+        }
 
-            System.out.print(element + " ");
-
+        System.out.println("Minimum = " + min);
     }
-
-    /*
-    public static int min(int a, int b)
-    {
-        return a < b ? a : b;
-    }
-    */
 }

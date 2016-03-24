@@ -1,6 +1,7 @@
 package com.javarush.test.level05.lesson12.bonus03;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 
 /* Задача по алгоритмам
 Написать программу, которая:
@@ -14,17 +15,27 @@ public class Solution
     public static void main(String[] args) throws Exception
     {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        int maximum;
+        int N = Integer.parseInt(reader.readLine());
 
-        //напишите тут ваш код
-        int n = Integer.parseInt(reader.readLine());
-
-        while (true)
+        //Создаем массив из N элементов.
+        if (N > 0)
         {
-            int m = Integer.parseInt(reader.readLine());
+            int[] a = new int[N];
+            int max = Integer.MIN_VALUE;
+
+            //Наполняем массив данными.
+            for (int i = 0; i < N; i++)
+            {
+                a[i] = Integer.parseInt(reader.readLine());
+
+                if (a[i] > max)
+                {
+                    max = a[i];
+                }
+            }
+
+            //Выводим максимум.
+            System.out.print(max);
         }
-
-
-        System.out.println(maximum);
     }
 }
