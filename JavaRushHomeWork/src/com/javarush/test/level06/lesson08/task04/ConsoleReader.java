@@ -17,24 +17,36 @@ public class ConsoleReader
     public static String readString() throws Exception
     {
         //напишите тут ваш код
+        BufferedReader s = new BufferedReader(new InputStreamReader(System.in));
+        String s1 = s.readLine();
 
+        return s1;
     }
 
     public static int readInt() throws Exception
     {
         //напишите тут ваш код
+        BufferedReader i = new BufferedReader(new InputStreamReader(System.in));
+        int i1 = Integer.parseInt(i.readLine());
 
+        return i1;
     }
 
     public static double readDouble() throws Exception
     {
         //напишите тут ваш код
+        BufferedReader d = new BufferedReader(new InputStreamReader(System.in));
+        double d1 = Double.parseDouble(d.readLine());
 
+        return d1;
     }
 
     public static boolean readBoolean() throws Exception
     {
         //напишите тут ваш код
+        BufferedReader b = new BufferedReader(new InputStreamReader(System.in));
+        boolean b1 = Boolean.parseBoolean(b.readLine());
 
+        return b1;
     }
 }
