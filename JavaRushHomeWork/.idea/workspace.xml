@@ -63,7 +63,6 @@
     <favorites_list name="JavaRushHomeWork" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
     <leaf>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus02/Solution.java">
@@ -94,9 +93,7 @@
         </entry>
       </file>
     </leaf>
-=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/javarush/test/level03/lesson12/home03/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson01/task01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson01/task02/Solution.java" />
@@ -137,8 +133,6 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task05/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task06/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task07/Solution.java" />
-=======
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task08/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task09/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task10/Solution.java" />
@@ -170,14 +164,11 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson05/task04/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson05/task02/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson05/task05/Solution.java" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home05/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus03/Solution.java" />
-=======
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus01/Solution.java" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson07/task01/Friend.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson07/task02/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson07/task03/Dog.java" />
@@ -194,12 +185,9 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home04/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson16/home03/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home05/Solution.java" />
-<<<<<<< HEAD
-=======
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home05/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus03/Solution.java" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
       </list>
     </option>
   </component>
@@ -242,15 +230,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
-=======
       <pane id="PackagesPane" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -330,12 +315,10 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-<<<<<<< HEAD
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-=======
             <PATH_ELEMENT>
               <option name="myItemId" value="level05" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -362,7 +345,6 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
             <PATH_ELEMENT>
               <option name="myItemId" value="level05" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -418,11 +400,8 @@
           </PATH>
         </subPane>
       </pane>
-<<<<<<< HEAD
-=======
       <pane id="Scratches" />
       <pane id="Scope" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -445,14 +424,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-<<<<<<< HEAD
   <component name="RunManager" selected="Application.Solution (1)">
   <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="false" name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-=======
   <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="false" name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.javarush.test.level05.lesson12.home05.*" />
@@ -495,7 +471,6 @@
     <configuration default="false" name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-<<<<<<< HEAD
           <option name="PATTERN" value="com.javarush.test.level05.lesson12.home05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -506,13 +481,11 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.javarush.test.level05.lesson12.home04.Solution" />
-=======
           <option name="PATTERN" value="com.javarush.test.level05.lesson12.bonus02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.javarush.test.level04.lesson16.home03.Solution" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -528,7 +501,6 @@
     <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-<<<<<<< HEAD
           <option name="PATTERN" value="com.javarush.test.level05.lesson12.bonus01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -539,13 +511,11 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.javarush.test.level05.lesson12.home05.Solution" />
-=======
           <option name="PATTERN" value="com.javarush.test.level05.lesson12.bonus02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.javarush.test.level05.lesson12.bonus02.Solution" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -561,7 +531,6 @@
     <configuration default="false" name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-<<<<<<< HEAD
           <option name="PATTERN" value="com.javarush.test.level05.lesson12.bonus02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
@@ -572,13 +541,11 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.javarush.test.level04.lesson16.home03.Solution" />
-=======
           <option name="PATTERN" value="com.javarush.test.level05.lesson12.bonus03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.javarush.test.level05.lesson12.bonus03.Solution" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1023,7 +990,6 @@
     </list>
     <recent_temporary>
       <list size="5">
-<<<<<<< HEAD
         <item index="0" class="java.lang.String" itemvalue="Application.Solution (1)" />
         <item index="1" class="java.lang.String" itemvalue="Application.Solution (4)" />
         <item index="0" class="java.lang.String" itemvalue="Application.Solution (4)" />
@@ -1031,13 +997,11 @@
         <item index="2" class="java.lang.String" itemvalue="Application.Solution (3)" />
         <item index="3" class="java.lang.String" itemvalue="Application.Solution (2)" />
         <item index="4" class="java.lang.String" itemvalue="Application.Cat" />
-=======
         <item index="0" class="java.lang.String" itemvalue="Application.Solution (5)" />
         <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
         <item index="2" class="java.lang.String" itemvalue="Application.Solution (1)" />
         <item index="3" class="java.lang.String" itemvalue="Application.Solution (4)" />
         <item index="4" class="java.lang.String" itemvalue="Application.Solution (4)" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1081,31 +1045,22 @@
       <workItem from="1458415727057" duration="2292000" />
       <workItem from="1458501075377" duration="1976000" />
       <workItem from="1458574704022" duration="7945000" />
-<<<<<<< HEAD
-=======
       <workItem from="1458739447180" duration="15042000" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
     <option name="totallyTimeSpent" value="77272000" />
-=======
     <option name="totallyTimeSpent" value="92314000" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
     <editor active="false" />
-<<<<<<< HEAD
     <option name="totallyTimeSpent" value="86508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="0" />
     <editor active="true" />
-=======
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1114,12 +1069,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25621623" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19891892" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38918918" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
-=======
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20432432" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1167,7 +1119,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson02/task01/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25">
@@ -1266,8 +1217,6 @@
         </state>
       </provider>
     </entry>
-=======
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task09/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.825">
@@ -1471,11 +1420,8 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home05/Solution.java">
-=======
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/home05/Solution.java" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson07/task01/Friend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5151515">
@@ -1521,7 +1467,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus01/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37904125">
-<<<<<<< HEAD
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         <state vertical-scroll-proportion="0.49275362">
@@ -1545,9 +1490,7 @@
         </state>
         <state vertical-scroll-proportion="0.4548495">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-=======
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
         </state>
       </provider>
     </entry>
@@ -1590,12 +1533,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.16690043">
           <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-<<<<<<< HEAD
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-=======
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
         </state>
       </provider>
     </entry>
