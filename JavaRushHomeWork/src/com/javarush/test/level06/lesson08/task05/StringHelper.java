@@ -8,12 +8,17 @@ String multiply(String s) – возвращает строку повторен
 Амиго -> АмигоАмигоАмигоАмигоАмиго
 */
 
+
 public class StringHelper
 {
     public static String multiply(String s)
     {
         String result = "";
         //напишите тут ваш код
+        for (int i = 1; i <= 5; i++)
+        {
+            result += s;
+        }
         return result;
     }
 
@@ -21,6 +26,11 @@ public class StringHelper
     {
         String result = "";
         //напишите тут ваш код
+        for (int i = 1; i <= count; i++)
+        {
+            result += s;
+        }
+
         return result;
     }
 }

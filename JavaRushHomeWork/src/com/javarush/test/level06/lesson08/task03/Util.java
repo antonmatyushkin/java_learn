@@ -5,6 +5,8 @@ package com.javarush.test.level06.lesson08.task03;
 Используй метод double Math.sqrt(double a), который вычисляет квадратный корень переданного параметра
 */
 
+import java.lang.Math;
+
 public class Util
 {
     public static double getDistance(int x1, int y1, int x2, int y2)
