@@ -16,6 +16,18 @@ public class Solution
     public static void main(String[] args) throws Exception
     {
         //напишите тут ваш код
+        ArrayList<String> list = new ArrayList<String>();
+        Collections.addAll(list, "мама", "мыла", "раму");
 
+        for (int i = 1; i <= list.size();)
+        {
+            list.add(i, "именно");
+            i = i + 2;
+        }
+
+        for (int i = 0; i < list.size(); i++)
+        {
+            System.out.println(list.get(i));
+        }
     }
 }
