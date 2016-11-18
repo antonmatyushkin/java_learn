@@ -1,12 +1,10 @@
 package com.javarush.test.level05.lesson12.bonus02;
 
-<<<<<<< HEAD
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-=======
 import java.util.Scanner;
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
 
 /* Нужно добавить в программу новую функциональность
 Задача: Программа вводит два числа с клавиатуры и выводит минимальное из них на экран.
@@ -15,26 +13,22 @@ import java.util.Scanner;
 
 public class Solution
 {
-
-    public static void main(String[] args) throws Exception
+    public static void main(String[] args) throws IOException
     {
-<<<<<<< HEAD
         ArrayList<Integer> list = new ArrayList<Integer>();
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        for(int i = 0; i < 5; i++){
+        for (int i = 0; i < 5; i++)
+        {
             int a = Integer.parseInt(reader.readLine());
             list.add(a);
         }
 
-        for(int i = 0; i < 5; i++){
-            System.out.println(list.get(a));
+        for (int i = 0; i < 5; i++)
+        {
+            System.out.println(list.get(i));
         }
 
-        //System.out.println("Minimum = " + minimum);
-    }
-
-=======
         int[] a = new int[5];
         int i = 0;
 
@@ -59,5 +53,4 @@ public class Solution
 
         System.out.println("Minimum = " + min);
     }
->>>>>>> 37aef08bd98f1396e4b9aeef16679b0c2327babb
 }

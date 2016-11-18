@@ -32,7 +32,11 @@ public class Solution
             numbers[i] = Integer.parseInt(reader.readLine());
         }
 
+<<<<<<< HEAD
         for(int i = 0; i < numbers.length; i++){
+=======
+        for(int i = 0; i < numbers.length - 1; i++){
+>>>>>>> 398762eaebea79dae0cad6b4c3ce838e4bd37eea
             for (int j = i+1; j < numbers.length; j++){
                 if (numbers[i] > numbers[j]){
                     int tmp = numbers[i];
